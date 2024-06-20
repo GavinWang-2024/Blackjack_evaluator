@@ -27,9 +27,6 @@ Program that evaluates and suggests strategies for playing Blackjack based on ma
 
 
 
-
-
-
 ```main``` initializes the deck, provides a menu for the user to choose options, and calls appropriate functions based on the user's choice.
 
 ```player_stand```: Calculates the expected value when the player decides to stand.
@@ -43,3 +40,19 @@ Program that evaluates and suggests strategies for playing Blackjack based on ma
 ```dealer```: Simulates the dealer's play and calculates probabilities of reaching different totals.
 
 ```max2```: Returns the maximum of two values.
+
+
+
+## Example Output:
+Hard Totals
+2+3	 X,X,X,X,X,X,X,X,X,X,X
+...
+Soft Totals
+1+2	 X,X,X,X,X,X,X,X,X,X,X
+...
+Pairs
+2+2	 X,X,X,X,X,X,X,X,X,X,X
+...
+Total probability =	1.000000
+Game Expected Value =	-0.054321
+
