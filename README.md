@@ -45,6 +45,7 @@ Program that evaluates and suggests strategies for playing Blackjack based on ma
 
 ## Example Output:
 Hard Totals
+
 2+3	 X,X,X,X,X,X,X,X,X,X,X
 ...
 Soft Totals
