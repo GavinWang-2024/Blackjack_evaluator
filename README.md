@@ -26,6 +26,10 @@ Program that evaluates and suggests strategies for playing Blackjack based on ma
 
 
 
+
+
+
+
 ```main``` initializes the deck, provides a menu for the user to choose options, and calls appropriate functions based on the user's choice.
 
 ```player_stand```: Calculates the expected value when the player decides to stand.
